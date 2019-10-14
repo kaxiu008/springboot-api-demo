@@ -7,4 +7,5 @@ Run command `./gradlew build`
 Go to "/build/libs" and run command `java -jar gs-rest-service-0.1.0.jar`
 
 ## Accept HTTP GET requests at
-http://localhost:8080/greeting or with an option "name" http://localhost:8080/greeting?name=User
+`http://localhost:8080/greeting` 
+or with an option "name" `http://localhost:8080/greeting?name=User`
